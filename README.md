@@ -48,4 +48,8 @@ Apache CloudStack is an open-source cloud management platform designed to deploy
 
 ### 12. ~ sudo docker run --name cloudstack-simulator -p 8080:5050 -d apache/cloudstacksimulator : runs a Docker container named "cloudstack-simulator" from the "apache/cloudstacksimulator" image, mapping port 8080 on the host to port 5050 in the container, and runs it in detached mode (in the background).
 
-### 13. ~ sudo docker ps -l : To check info & installation about apache cloudstack container 
+### 13. ~ sudo docker ps -l : To check info & installation about apache cloudstack container.
+
+### 14. ~ sudo docker start cloudstack-simulator : starts the stopped Docker container named "cloudstack-simulator." 
+
+### 15. ~ After this open the browser and type in the URL http:localhost:8080/ 
