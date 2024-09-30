@@ -22,6 +22,11 @@ Apache CloudStack is an open-source cloud management platform designed to deploy
 
 ### This particluar repository focuses installating of Apache Web Server on Linux OS
 
+# Apache CloudStack Management Server 
+
+![maxresdefault](https://github.com/user-attachments/assets/cbbfb03d-1528-4a5f-a286-197a2bd17c8a)
+
+
 # Process of Installation
 
 ### 1. ~ sudo apt update :  updates the package lists for available packages and their versions, but it does not install or upgrade any packages.
